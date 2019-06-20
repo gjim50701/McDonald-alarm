@@ -7,10 +7,8 @@ This is learn from the IOS APP lesson.
 1.xCode
 
 ## Simple(9)
-
-<img width="300" height="650" src="https://github.com/gjim50701/McDonald-alarm-UI/blob/master/img/img1.png"/>  
-
-<img width="300" height="650" src="https://github.com/gjim50701/McDonald-alarm-UI/blob/master/img/img2.png"/>
-
+<center class="half">
+<img width="300" height="650" src="https://github.com/gjim50701/McDonald-alarm-UI/blob/master/img/img1.png"/><img width="300" height="650" src="https://github.com/gjim50701/McDonald-alarm-UI/blob/master/img/img2.png"/>
+</center>
 
 
