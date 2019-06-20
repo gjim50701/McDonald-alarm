@@ -8,8 +8,8 @@ This is learn from the IOS APP lesson.
 
 ## Framework
 
-<div align=center><img width="1000" height="500" src="https://github.com/gjim50701/McDonald-alarm-UI/blob/master/img/img15.png"/></div>
-<div align=center><img width="1000" height="500" src="https://github.com/gjim50701/McDonald-alarm-UI/blob/master/img/img16.png"/></div>
+<div align=center><img width="900" height="500" src="https://github.com/gjim50701/McDonald-alarm-UI/blob/master/img/img15.png"/></div>
+<div align=center><img width="900" height="500" src="https://github.com/gjim50701/McDonald-alarm-UI/blob/master/img/img16.png"/></div>
 
 
 ## Simple(9)
